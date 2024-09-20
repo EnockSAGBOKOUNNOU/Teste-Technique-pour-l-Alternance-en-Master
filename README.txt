@@ -1,0 +1,1 @@
+npm start (pour démarer le projet) [ entrer dans chacun des dossier du fontend et backend et exécuté la même commande]
